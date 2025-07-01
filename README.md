@@ -1,4 +1,3 @@
-Absolutely! Below is the updated `README.md` with a new section titled **"🧩 How I Achieved This on Windows"**—which outlines the steps you followed to deploy your Rails app using Minikube on Windows.
 
 ---
 
